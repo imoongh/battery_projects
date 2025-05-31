@@ -4,6 +4,7 @@ working with publicly available battery data
 ## Li-ion Arbin.ipynb
 
 ### Summary
+* Started the notebook on google colab.
 * Tests of 3 different batteries at different temperatures and C-rates.
 * Have "record data": time, current, voltage, temperature.
 * Only 1 cycle per test available in this dataset. 
