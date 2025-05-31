@@ -20,7 +20,8 @@ working with publicly available battery data
 (to be updated for each version of the notebook)
 
 * Initial EDA
-* Some data engineering for the record data, e.g. dQ, dV
+* Some data engineering for the record data, e.g. dQ/dV
+* plotted dQ/dV vs V, smoothed curve
 
 ### to do:
 * plots with the record data:
